@@ -35,6 +35,7 @@ Seja o mais específico possível. Diga ao modelo exatamente o que fazer, qual p
 Você fornece ao modelo um ou mais exemplos completos da tarefa que deseja que ele execute. Isso ajuda o modelo a entender o padrão e o formato da saída esperada. *One-Shot* é quando você fornece apenas um exemplo.
 
 > **Exemplo (Few-Shot)**:
+>
 > ```textplain
 > Converte a linguagem natural em um comando SQL.
 >
