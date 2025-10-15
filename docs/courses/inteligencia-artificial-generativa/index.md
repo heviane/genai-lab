@@ -2,6 +2,8 @@
 
 A **Inteligência Artificial Generativa (GenAI)** é um subcampo da IA focado na criação de algoritmos e modelos capazes de **gerar conteúdo novo e original**. Em vez de apenas classificar dados ou fazer previsões, os modelos generativos criam algo que não existia antes.
 
+Em outras palavras, ela tem a capacidade de gerar conteúdo a partir de padrões aprendidos de dados para o qual ela foi treinada. O grande diferencial é que além de serem capazes de entender regras pré-definidas, são capazes também de aprender padrões e criar soluções novas.
+
 Esse conteúdo pode assumir diversas formas:
 
 - **Texto**: Escrever e-mails, artigos, poemas e resumos.
@@ -9,6 +11,23 @@ Esse conteúdo pode assumir diversas formas:
 - **Imagens**: Criar ilustrações, fotos realistas e obras de arte a partir de descrições em texto.
 - **Áudio**: Compor músicas, gerar efeitos sonoros ou sintetizar vozes humanas.
 - **Vídeo e 3D**: Gerar clipes de vídeo ou modelos tridimensionais.
+
+Em resumo, aplicativos de GenAi usam entrada em linguagem natural e retornam respostas aproppriadas em uma variedade de formatos.
+
+## Principais aplicações de IA Generativa
+
+- Geração de linguagem natural: Como por exemplo, IA generativa incorporada a aplicativos de chat.
+- Geração de código
+- Geração de imagens
+- Geração de audio
+
+## Importância para os desenvolvedores
+
+É como ter um "par programming" ao lado para auxiliar.
+As principais vantagens são:
+
+- Produtividade;
+- Remover bloqueios ao longo do desenvolvimento.
 
 ## Modelos Generativos vs. Discriminativos
 

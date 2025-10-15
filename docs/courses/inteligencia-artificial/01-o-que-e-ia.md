@@ -2,6 +2,8 @@
 
 A **Inteligência Artificial (IA)** é um campo da ciência da computação dedicado a criar sistemas e máquinas capazes de realizar tarefas que normalmente exigiriam inteligência humana. Isso inclui habilidades como aprender, raciocinar, resolver problemas, perceber o ambiente e compreender a linguagem.
 
+Em outras palavras, a IA é a imitação do comportamento humano usando **aprendizado de máquina** para interagir com o ambiente e executar tarefas sem instruções explícitas.
+
 Descrição de uma IA: Prever resultados e reconhecer padrões com base em dados históricos.
 
 O objetivo da IA não é necessariamente replicar a mente humana, mas sim construir ferramentas que possam "pensar" de forma a nos ajudar a resolver problemas complexos de maneira mais eficiente.

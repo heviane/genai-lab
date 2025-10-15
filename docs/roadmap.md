@@ -2,8 +2,6 @@
 
 Este roadmap foi projetado para guiar iniciantes no campo da Inteligência Artificial Generativa, começando pelos conceitos fundamentais e progredindo para tópicos mais avançados. A estrutura é modular, permitindo um aprendizado passo a passo.
 
-Use as caixas de seleção para marcar os tópicos que você já concluiu.
-
 ---
 
 ## Módulo 1: Fundamentos (A Base para Desenvolvedores)
@@ -52,8 +50,7 @@ Use as caixas de seleção para marcar os tópicos que você já concluiu.
 ## Módulo 5: Construindo Aplicações com LLMs
 
 - [ ] **Engenharia de Prompt**
-  - [ ] Técnicas básicas: Instruções claras, *Zero-shot*, *One-shot* e *Few-shot prompting*.
-  - [ ] Entender o conceito de *Chain-of-Thought*.
+  - [ ] Estudar o [Roadmap de Estudos em Engenharia de Prompts](./roadmap-prompt-engineering.md) para um aprofundamento completo, desde o básico até técnicas avançadas.
 - [ ] **Retrieval-Augmented Generation (RAG)**
   - [ ] O que é RAG e por que é essencial para evitar alucinações e usar dados privados.
   - [ ] Introdução a *Vector Databases* (ex: ChromaDB, FAISS).
