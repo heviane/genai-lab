@@ -15,8 +15,6 @@ Aqui estão alguns dos projetos que você encontrará neste repositório ou no m
 | **Clone do ChatGPT com a DIO** | Um projeto que recria a interface e a funcionalidade básica do ChatGPT, utilizando APIs de LLMs para a geração de texto. | ✅ Concluído |
 | *[Nome do Projeto 2]* | *Descrição do próximo projeto a ser desenvolvido...* | ⏳ Em Breve |
 
-- *TODO: Incluir os meus outros repositórios do Github como submodulos no diretório "projects"*
-
 ---
 
 ## 💡 Ideias e Projetos Futuros
@@ -29,3 +27,5 @@ Esta é uma lista de ideias que estão sendo consideradas para desenvolvimento f
 - **Assistente de Geração de Testes Unitários**: Uma ferramenta que analisa uma função ou classe e gera o código-base para testes unitários, acelerando o ciclo de TDD.
 - **Gerador de Documentação de Código (Docstrings)**: Um script que lê um arquivo de código-fonte (Python, JS, etc.) e utiliza um LLM para gerar docstrings ou comentários explicativos para cada função.
 - **Tradutor de Linguagem Natural para Comandos (CLI/SQL)**: Uma interface que permite ao usuário escrever um comando em português (ex: "encontre todos os arquivos com mais de 10MB na pasta atual") e o traduz para o comando shell ou SQL correspondente.
+
+> Criar novos repositórios para estes projetos no Github (definir nomenclatura padronizada para a nomeação), e linka-los neste repositório como submodulos na seção **Projetos em Destaque**!
