@@ -17,15 +17,10 @@ Aqui estão alguns dos projetos que você encontrará neste repositório ou no m
 
 ---
 
-## 💡 Ideias e Projetos Futuros
+## 💡 Ideias e Inspiração para Projetos
 
-Esta é uma lista de ideias que estão sendo consideradas para desenvolvimento futuro:
+Se você está buscando inspiração para criar projetos de IA Generativa com alto impacto para um portfólio de engenharia de software, consulte nosso guia detalhado:
 
-- **Ebook sobre Engenharia de Prompts**: Um guia compilado a partir das anotações do repositório, formatado como um ebook prático.
-- **Podcast "IA em 5 Minutos"**: Roteiros e planejamento para um podcast com resumos rápidos sobre notícias e conceitos de IA Generativa.
-- **Agente de Pesquisa Autônomo**: Um agente construído com LangChain ou LlamaIndex que pode pesquisar um tópico na web, resumir as informações e gerar um relatório.
-- **Assistente de Geração de Testes Unitários**: Uma ferramenta que analisa uma função ou classe e gera o código-base para testes unitários, acelerando o ciclo de TDD.
-- **Gerador de Documentação de Código (Docstrings)**: Um script que lê um arquivo de código-fonte (Python, JS, etc.) e utiliza um LLM para gerar docstrings ou comentários explicativos para cada função.
-- **Tradutor de Linguagem Natural para Comandos (CLI/SQL)**: Uma interface que permite ao usuário escrever um comando em português (ex: "encontre todos os arquivos com mais de 10MB na pasta atual") e o traduz para o comando shell ou SQL correspondente.
+➡️ **[Guia de Ideias para Projetos de IA Generativa](./ideias-para-projetos.md)**
 
 > Criar novos repositórios para estes projetos no Github (definir nomenclatura padronizada para a nomeação), e linka-los neste repositório como submodulos na seção **Projetos em Destaque**!
