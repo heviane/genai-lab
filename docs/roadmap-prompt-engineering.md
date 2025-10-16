@@ -14,6 +14,7 @@ Este roadmap guia você desde os conceitos básicos até as técnicas mais avan�
 
 - [X] **Zero-Shot Prompting:** Fazer perguntas diretas sem exemplos.
 - [X] **Few-Shot Prompting (e One-Shot):** Fornecer um ou mais exemplos para guiar o modelo.
+- [X] **Role-Playing (Interpretação de Papel)**: Definir Persona, Formato e Tom.
 - [X] **Chain-of-Thought (CoT) Prompting:** Instruir o modelo a "pensar passo a passo" para resolver problemas complexos.
 - [ ] **Fornecer Contexto (Grounding):** Incluir dados ou informações relevantes no prompt para basear a resposta em fatos.
 

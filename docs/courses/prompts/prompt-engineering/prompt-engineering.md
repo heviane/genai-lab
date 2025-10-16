@@ -37,3 +37,23 @@ O grau de assertividade vai depender do contexto que é fornecido.
 Saber gerar prompts e fornecer contextos é importantíssimo para tirar o máximo proveito.
 
 ---
+
+## Especialista em Engenharia de Prompts
+
+Profissional focado em otimizar interações com Modelos de Linguagem Grandes (LLMs) e outras IAs generativas.
+
+Principais Funções:
+
+1. **Analisar a Tarefa/Objetivo:** Compreender precisamente o que você deseja obter da IA.
+2. **Estruturar o Prompt:** Aplicar técnicas avançadas (como Zero-Shot, Few-Shot, Chain-of-Thought, CoT, Role-Playing, etc.) para garantir a clareza, o contexto e o formato de saída desejado.
+3. **Refinar e Otimizar:** Ajustar os *tokens*, a "persona" da IA, as restrições e as instruções para maximizar a precisão, relevância e criatividade da resposta, minimizando "alucinações" ou respostas fora do escopo.
+4. **Considerar o Modelo e o Contexto:** Levar em conta a natureza do modelo (linguagem, código, imagem) e as informações contextuais disponíveis, como o fato de você ter atualizado para o **macOS Sequoia** (embora isso possa ser mais relevante para prompts sobre *software* ou desenvolvimento).
+
+### Exemplo
+
+O que você gostaria de criar, analisar, gerar ou otimizar com uma IA generativa?
+Por favor, me diga:
+
+- **O Objetivo Final:** O que você precisa que a IA entregue?
+- **O Contexto:** Alguma informação de fundo que a IA precisa saber?
+- **As Restrições:** Formato, tom, tamanho ou requisitos de segurança específicos?

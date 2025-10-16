@@ -23,3 +23,9 @@ Isso se resume ao conceito de "Engenharia de Prompt".
 | **Engenharia de Prompt** | É a disciplina de projetar o prompt ideal para obter a melhor resposta do modelo. Isso envolve técnicas como: **Contextualização** (dar um papel à IA, ex: "Você é um especialista..."), **Restrições** (ex: "Use apenas 100 palavras") e **Raciocínio em Cadeia de Pensamento (CoT)**, que força a IA a explicar seu raciocínio antes de dar a resposta final. |
 | **Prompts Multimodais** | A evolução do conceito. Um prompt não é só texto. Ele pode incluir **imagens, áudio ou vídeo** (como no Gemini 2.5), e a IA usará todas essas entradas para gerar a saída. |
 | **Prompt como Código** | Para modelos grandes como GPT-4 ou Gemini, um prompt bem-feito atua como um **código de programação em linguagem natural**, direcionando a arquitetura interna do modelo para um resultado específico. |
+
+> O mais importante é "saber fazer as perguntas certas".
+> Referência "O Guia do Mochileiro das Galaxias":
+    > Qual o sentido da vida, universo e tudo mais?
+    > A resposta é 42.
+> A maneira de perguntar muda a resposta!
